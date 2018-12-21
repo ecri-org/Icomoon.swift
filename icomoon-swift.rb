@@ -1,5 +1,5 @@
 # Use like:
-# brew install https://raw.githubusercontent.com/jamiely/Icomoon.swift/master/homebrew_formula.rb
+# brew install https://raw.githubusercontent.com/jamiely/Icomoon.swift/master/icomoon-swift.rb
 #
 class IcomoonSwift < Formula
   desc "Use your Icomoon fonts with Swift - auto-generates type safe enums for each icon"
